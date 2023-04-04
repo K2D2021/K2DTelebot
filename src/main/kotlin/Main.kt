@@ -1,11 +1,9 @@
 import dev.inmo.tgbotapi.bot.ktor.telegramBot
-import dev.inmo.tgbotapi.extensions.api.bot.getMe
 import dev.inmo.tgbotapi.extensions.api.bot.setMyCommands
 import dev.inmo.tgbotapi.extensions.api.send.reply
 import dev.inmo.tgbotapi.extensions.behaviour_builder.buildBehaviourWithLongPolling
 import dev.inmo.tgbotapi.extensions.behaviour_builder.expectations.waitText
 import dev.inmo.tgbotapi.extensions.behaviour_builder.triggers_handling.onCommand
-import dev.inmo.tgbotapi.extensions.behaviour_builder.triggers_handling.onPoll
 import dev.inmo.tgbotapi.requests.send.SendTextMessage
 import dev.inmo.tgbotapi.types.BotCommand
 import dev.inmo.tgbotapi.types.MenuButton
@@ -35,8 +33,6 @@ suspend fun main() {
         )
 
         val menu = MenuButton
-
-
 
         onCommand("start") {
             reply(it, "Hi22 :)")
