@@ -22,7 +22,7 @@ suspend fun main() {
     val currentDate = sdf.format(Date())
 
     bot.buildBehaviourWithLongPolling {
-        //println(getMe())
+        println(getMe())
         val nameReplyMarkup = ReplyKeyboardMarkup(
             matrix {
                 row {
