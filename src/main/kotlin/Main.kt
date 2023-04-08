@@ -21,8 +21,7 @@ suspend fun main() {
     val bot = telegramBot(TokenDoNotShare.getToken())
     val sdf = SimpleDateFormat("dd MMMM yyyy hh:mm:ss")
     val currentDate = sdf.format(Date())
-//TODO make great bot
-    //TODO searching for server
+
     bot.buildBehaviourWithLongPolling {
         println(getMe())
         val nameReplyMarkup = ReplyKeyboardMarkup(
