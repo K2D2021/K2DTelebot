@@ -32,7 +32,7 @@ suspend fun main() {
                 }
             }
         )
-
+//TODO need add clear menu
         val menu = MenuButton
 
         onCommand("start") {
