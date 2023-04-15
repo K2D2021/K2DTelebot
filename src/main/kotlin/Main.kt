@@ -45,7 +45,7 @@ suspend fun main() {
             ).first().text.takeIf { it != "nope" }
         }
 
-        onCommand("time") {
+        onCommand("what is time") {
             reply(it, currentDate)
         }
 
