@@ -33,7 +33,7 @@ suspend fun main() {
             }
         )
 
-//        val menu = MenuButton
+        val menu = MenuButton
         onCommand("start") {
             reply(it, "Hello dear friend :)")
             val name = waitText(
