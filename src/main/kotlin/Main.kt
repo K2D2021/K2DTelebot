@@ -28,7 +28,6 @@ suspend fun main() {
             matrix {
                 row {
                     +SimpleKeyboardButton("nope")
-                    +SimpleKeyboardButton("hope")
                 }
             }
         )
