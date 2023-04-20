@@ -49,7 +49,7 @@ suspend fun main() {
         }
 
         setMyCommands(
-            BotCommand("time", "show current time"),
+            BotCommand("time", "Show current time"),
             scope = BotCommandScope.AllGroupChats
         )
     }.join()
