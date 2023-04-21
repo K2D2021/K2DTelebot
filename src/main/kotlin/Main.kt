@@ -38,7 +38,7 @@ suspend fun main() {
             val name = waitText(
                 SendTextMessage(
                     it.chat.id,
-                    "Send me your name or choose \"nope\"",
+                    "Please send me your name or choose \"nope\"",
                     replyMarkup = nameReplyMarkup
                 )
             ).first().text.takeIf { it != "nope" }
