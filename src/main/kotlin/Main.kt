@@ -38,10 +38,10 @@ suspend fun main() {
             val name = waitText(
                 SendTextMessage(
                     it.chat.id,
-                    "Please send me your name or choose \"not now\"",
+                    "Please send me your name or choose \"not now please\"",
                     replyMarkup = nameReplyMarkup
                 )
-            ).first().text.takeIf { it != "not now" }
+            ).first().text.takeIf { it != "not now please" }
         }
 
         onCommand("what is time") {
