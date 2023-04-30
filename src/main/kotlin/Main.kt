@@ -34,7 +34,7 @@ suspend fun main() {
 
         val menu = MenuButton
         onCommand("start") {
-            reply(it, "Hello dear friends! How are you dude?")
+            reply(it, "Hello dear friends! How are you?")
             val name = waitText(
                 SendTextMessage(
                     it.chat.id,
