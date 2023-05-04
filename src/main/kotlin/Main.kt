@@ -31,7 +31,7 @@ suspend fun main() {
                 }
             }
         )
-
+//something go wrong
         val menu = MenuButton
         onCommand("start") {
             reply(it, "Hello dear friends!")
