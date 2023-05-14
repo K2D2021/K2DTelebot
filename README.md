@@ -7,3 +7,4 @@ New phone, new life
 It is AWESOME
 Friday. Yes.
 No.
+First run of my brand new phone.
