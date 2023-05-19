@@ -12,3 +12,4 @@ Too late.
 It is hard to...
 Very early. Super morning.
 Nice music.
+It is FRIDAY!!!
