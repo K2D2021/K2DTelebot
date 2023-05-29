@@ -21,3 +21,4 @@ It is a hat.
 Good. Sweat. Nice.
 Good morning!
 Just relax.
+Ready for battle!
