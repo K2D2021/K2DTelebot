@@ -26,3 +26,4 @@ Keep it clear.
 Never mind.
 Step by step.
 Teambuilding.
+Now I see much clearer.
