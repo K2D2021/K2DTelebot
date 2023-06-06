@@ -29,3 +29,4 @@ Teambuilding.
 Now I see much clearer.
 You gotta do what you gotta do.
 Need a rest.
+Hard day / Hard life.
