@@ -41,7 +41,7 @@ suspend fun main() {
                     "Please send me your name or choose \"not now please\"",
                     replyMarkup = nameReplyMarkup
                 )
-            ).first().text.takeIf { it != "not now please" }
+            ).first().text.takeIf { it != "get off" }
         }
 
         onCommand("what is time") {
