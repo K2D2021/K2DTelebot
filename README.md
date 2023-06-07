@@ -17,3 +17,17 @@ So close to start.
 And we start.
 Good thing!
 I release my stops.
+It is a hat.
+Good. Sweat. Nice.
+Good morning!
+Just relax.
+Ready for battle!
+Keep it clear.
+Never mind.
+Step by step.
+Teambuilding.
+Now I see much clearer.
+You gotta do what you gotta do.
+Need a rest.
+Hard day / Hard life.
+New day. New life. What?
