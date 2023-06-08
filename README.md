@@ -31,3 +31,4 @@ You gotta do what you gotta do.
 Need a rest.
 Hard day / Hard life.
 New day. New life. What?
+Just one day.
