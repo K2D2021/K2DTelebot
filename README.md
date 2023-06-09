@@ -32,3 +32,4 @@ Need a rest.
 Hard day / Hard life.
 New day. New life. What?
 Just one day.
+I'm free.
